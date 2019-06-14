@@ -27,7 +27,7 @@ class Resume extends Component {
             a startup called <a href="https://fakturomania.pl/" rel="noopener noreferrer" target="_blank">Fakturomania</a> in customer service and
             as a SEO&online marketing specialist. I have been learning programming in my free time for 2 years and I created this page
             for a presentation of what I have learned. Currently I'm looking for a job as a SEO&marketing specialist or a job/practice as a
-            Junior Front-End Web Developer. I live in Milanówek near Warsaw, but I am open for job offers from other places and working from home.</p>
+            Junior Front-End Web Developer. I live in Milanówek near Warsaw, but I am open for job offers from all over the world and working from home.</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <h5>Address</h5>
             <p>Grabowa 7, 05-822 Milanówek</p>
@@ -68,8 +68,8 @@ class Resume extends Component {
                  in Corel Draw and Google Earth.</div>
                 />
                 <Experience
-                  startYear={2009}
-                  endYear={2012}
+                  startYear={2015}
+                  endYear={2016}
                   jobName="Polish Ecological Club (Polski Klub Ekologiczny)"
                   jobDescription=<div>Work on organizing conferences and debates, booking conference rooms, hotel rooms, expert translators and catering,
                   sending invitations, creating and translating documents and brochures related to conferences, distribution of publications.
@@ -106,20 +106,20 @@ class Resume extends Component {
                 progress={80}
                 />
                 <Skills
-                  skill="HTML&CSS"
+                  skill="HTML5&CSS"
                   progress={90}
                   />
                   <Skills
                     skill="NodeJS"
-                    progress={50}
+                    progress={30}
                     />
                     <Skills
                       skill="React&Redux"
-                      progress={50}
+                      progress={60}
                       />
                       <Skills
                         skill="Git"
-                        progress={50}
+                        progress={40}
                         />
                       <Skills
                         skill="Google Analytics"
