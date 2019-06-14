@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Maybe if I modify this stuff it will run again.
 In the project directory, you can run:
 
 ### `npm start`
