@@ -27,9 +27,9 @@ class Landing extends Component {
                 <i className="fa fa-github-square" aria-hidden="true" />
               </a>
               {/* link do youtube */}
-              <a href="https://www.youtube.com" rel="noopener noreferrer" target="_blank">
-                <i className="fa fa-youtube-square" aria-hidden="true" />
-              </a>
+            {/*  <a href="https://www.youtube.com" rel="noopener noreferrer" target="_blank">*/}
+            {/*    <i className="fa fa-youtube-square" aria-hidden="true" />*/}
+            {/*  </a>*/}
             </div>
             </div>
           </Cell>

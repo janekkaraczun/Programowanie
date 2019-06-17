@@ -48,15 +48,15 @@ class Projects extends Component {
             <CardTitle style={{color:'#fff', height: '176px', background:
               'url(https://blog.algolia.com/wp-content/uploads/2015/11/React_illo_final_720x400.png) center / cover'}}>My Resume</CardTitle>
             <CardText>
-              <div> My third project is this website. It was created in React, using React-MDL Components. I will be constantly upgrading it, so it stays up
-              to date.
+              <div> My third project is this website. It was created in React, using React-MDL Components and styling in CSS. I will be constantly upgrading it,
+              so it stays up to date.
               </div>
             </CardText>
-              {/* <CardActions border>
-                <Button colored>Github</Button>
-                <Button colored>next link</Button>
-                <Button colored>Nic</Button>
-               </CardActions>*/}
+              <CardActions border>
+                <Button href="https://github.com/janekkaraczun" colored target="/blank">Github Repository</Button>
+                {/* <Button colored>next link</Button>
+                <Button colored>Nic</Button>*/}
+               </CardActions>
               <CardMenu style={{color:'#fff'}}>
               </CardMenu>
           </Card>
@@ -69,8 +69,8 @@ class Projects extends Component {
               <CardTitle style={{color:'#737373', height: '176px', background:
                 'url(https://s3.amazonaws.com/ceblog/wp-content/uploads/2018/03/24172201/why-ga-inaccurate.jpg) center / cover'}}></CardTitle>
               <CardText>
-                Google Analytics is one of the most important tools for SEO and SEM analysis.
-                I worked on configuration and creating reports to carry out analysis of website traffic.
+                Google Analytics is one of the most important tools for SEO and SEM analysis. It provides very complicated and customizable reports and allows
+                to measure conversions on the website. I worked on configuration GA and creating reports to carry out analysis of website traffic.
               </CardText>
                 <CardActions border>
                   <Button href='https://analytics.google.com' target='_blank' colored>Google Analytics</Button>
@@ -84,7 +84,7 @@ class Projects extends Component {
                   'url(http://blog.clickdimensions.com/wp-content/uploads/2018/12/NewBlogFeature-How-to-Use-Google-Search-Console-to-Improve-Your-Search-Ranking.png) center / cover'}}></CardTitle>
                 <CardText>
                   Google Search Console is another powerful tool supported by Google. Although it doesn't allow to make customized reports it provides data
-                  that is very important for analysis of websites traffic.
+                  that is very important for analysis of websites traffic. I used it mostly for searching for keywords.
                 </CardText>
                 <CardActions border>
                   <Button href='https://search.google.com/search-console/about' target='_blank' colored>Google Search Console</Button>
@@ -125,7 +125,8 @@ class Projects extends Component {
                         <CardTitle style={{color:'#fff', height: '176px', background:
                           'url(https://technologiczna.pl/wp-content/uploads/2017/06/facebook-76536.png) center / cover'}}></CardTitle>
                         <CardText>
-                          I was also taking care of the facebook page and used it for advertising articles.
+                          I was also taking care of the facebook page and used it for advertising articles. Facebook provides simplified reports,
+                          but they are useful too. What's also important ads can be customized to reach to specified type of potential customers.
                         </CardText>
                           <CardActions border>
                             <Button href='https://www.facebook.com/fakturomania/' target='_blank' colored>Facebook</Button>
