@@ -7,9 +7,9 @@ import { Link } from 'react-router-dom';
 function App() {
   return (
     <div className="demo-big-content">
-    <Layout>
+    <Layout fixedHeader>
         <Header className="header-color" title={<Link style={{textDecoration:'none', color:'white'}}
-         to="/My-resume">My Portfolio</Link>} scroll>
+         to="/My-resume">Main page</Link>} scroll>
             <Navigation>
                 <Link to="/resume">Resume</Link >
                 {/*  <Link to="/aboutme">O mnie</Link >  */}
@@ -17,7 +17,7 @@ function App() {
                 <Link to="/contact">Contact</Link >
             </Navigation>
         </Header>
-        <Drawer title="Title">
+        <Drawer title="Menu">
             <Navigation>
                 <Link to="/resume">Resume</Link >
                   {/*  <Link to="/aboutme">O mnie</Link >  */}

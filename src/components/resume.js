@@ -13,11 +13,6 @@ class Resume extends Component {
         <Grid>
           <Cell col={4}>
             <div style={{textAlign: 'center'}}>
-              <img
-                src="https://cvlogin.com/images/no-avatar.jpg"
-                alt="avatar"
-                style={{height: '200px' ,marginTop:'30px'}}
-                 />
             </div>
 
             <h2 style={{paddingTop: '2em'}}>Jan Karaczun</h2>
@@ -36,7 +31,7 @@ class Resume extends Component {
             <h5>Email</h5>
             <p>janek.karaczun@yahoo.com</p>
             <h5>Web</h5>
-            <p>mywebsite.com</p>
+            <p>https://janekkaraczun.github.io/My-resume</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
           </Cell>
           <Cell className="resume-right-col" col={8}>
@@ -64,8 +59,8 @@ class Resume extends Component {
                 jobDescription=<div>7-week work experience at Ramboll Environ (after a change of name), an international consulting company providing high
                 quality due diligence services in the field of health and safety and environmental protection,
 
-                My main task was to translate documents and scientific papers, to create maps for the deployment of wind turbines (and others)
-                 in Corel Draw and Google Earth.</div>
+                My main tasks were translating documents and scientific papers, creating maps for the deployment of wind turbines (and others)
+                 with the use of Corel Draw and Google Earth.</div>
                 />
                 <Experience
                   startYear={2015}
