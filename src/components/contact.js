@@ -10,13 +10,13 @@ class Contact extends Component {
           <Cell col={6}>
             <h2>Jan Karaczun</h2>
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lobster_Telephone_Photo.jpg/300px-Lobster_Telephone_Photo.jpg"
+              src="http://clipart-library.com/img/1344176.png"
               alt="avatar"
               style={{height: '250px'}}
             />
             <p style={{width:'75%', margin: 'auto', paddingTop: '1em'}}>
             Thank you for visiting my website. If you want to contact me please feel free to use information on the right side. I usually answer e-mails the
-            same day or in two days, if there will be no answer it might mean that the message have been filtered to spam - I recommend telephone contact.</p> 
+            same day or in two days, if there will be no answer it might mean that the message have been filtered to spam - I recommend telephone contact.</p>
           </Cell>
 
           {/* prawa strona */}

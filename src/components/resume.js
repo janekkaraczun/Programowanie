@@ -31,7 +31,7 @@ class Resume extends Component {
             <h5>Email</h5>
             <p>janek.karaczun@yahoo.com</p>
             <h5>Web</h5>
-            <p>https://janekkaraczun.github.io/My-resume</p>
+            <a href="https://janekkaraczun.github.io/My-resume" colored>https://janekkaraczun.github.io/My-resume</a>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
           </Cell>
           <Cell className="resume-right-col" col={8}>
@@ -101,7 +101,7 @@ class Resume extends Component {
                 progress={80}
                 />
                 <Skills
-                  skill="HTML5&CSS"
+                  skill="HTML5 & CSS"
                   progress={90}
                   />
                   <Skills
@@ -109,7 +109,7 @@ class Resume extends Component {
                     progress={30}
                     />
                     <Skills
-                      skill="React&Redux"
+                      skill="React & Redux"
                       progress={60}
                       />
                       <Skills
