@@ -24,23 +24,23 @@ class Contact extends Component {
             <h2>Contact Me</h2>
             <hr/>
             <div className="contact-list">
-              <List>
+              <List style={{minWidth:'290px'}}>
                 <ListItem>
-                  <ListItemContent style ={{fontSize: '25px', fontFamily: 'Anton'}}>
+                  <ListItemContent style ={{fontSize: '20px', fontFamily: 'Anton'}}>
                   <i className="fa fa-phone-square" aria-hidden="true" />
                   (+48)661-998-798
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
-                  <ListItemContent style ={{fontSize: '25px', fontFamily: 'Anton'}}>
+                  <ListItemContent style ={{fontSize: '20px', fontFamily: 'Anton'}}>
                   <i className="fa fa-envelope" aria-hidden="true" />
                   janek.karaczun@yahoo.com
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
-                  <ListItemContent style ={{fontSize: '25px', fontFamily: 'Anton'}}>
+                  <ListItemContent style ={{fontSize: '20px', fontFamily: 'Anton'}}>
                   <i className="fa fa-skype" aria-hidden="true" />
                   janek.janek.janek1
                   </ListItemContent>

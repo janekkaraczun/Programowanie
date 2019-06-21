@@ -9,11 +9,11 @@ function App() {
     <div className="demo-big-content">
     <Layout fixedHeader>
         <Header className="header-color" title={<Link style={{textDecoration:'none', color:'white'}}
-         to="/My-resume">Main page</Link>} scroll>
-            <Navigation>
+         to="/My-resume">Home</Link>} scroll>
+            <Navigation style={{display:'flex'}}>
                 <Link to="/resume">Resume</Link >
                 {/*  <Link to="/aboutme">O mnie</Link >  */}
-                <Link to="/projects">Projects</Link >
+                <Link to="/projects">Skills</Link >
                 <Link to="/contact">Contact</Link >
             </Navigation>
         </Header>
@@ -21,7 +21,7 @@ function App() {
             <Navigation>
                 <Link to="/resume">Resume</Link >
                   {/*  <Link to="/aboutme">O mnie</Link >  */}
-                <Link to="/projects">Projects</Link >
+                <Link to="/projects">Skills</Link >
                 <Link to="/contact">Contact</Link >
             </Navigation>
         </Drawer>

@@ -94,6 +94,7 @@
 }
 .contact-grid h2{
   font-family: 'Anton', sans-serif;
+  font-size: 30px;
 }
 .contact-grid p {
   font-family: 'Oxygen', sans-serif;
@@ -107,6 +108,8 @@
 .contact-list i {
   font-size: 50px;
   padding-right: 5rem;
+  padding-left: 5rem;
+  text-align: center;
 }
 
 /* strona resume */
