@@ -11,18 +11,18 @@ function App() {
         <Header className="header-color" title={<Link style={{textDecoration:'none', color:'white'}}
          to="/My-resume">Home</Link>} scroll>
             <Navigation style={{display:'flex'}}>
-                <Link to="/resume">Resume</Link >
+                <Link to="/My-resume/resume">Resume</Link >
                 {/*  <Link to="/aboutme">O mnie</Link >  */}
-                <Link to="/projects">Skills</Link >
-                <Link to="/contact">Contact</Link >
+                <Link to="/My-resume/projects">Skills</Link >
+                <Link to="/My-resume/contact">Contact</Link >
             </Navigation>
         </Header>
         <Drawer title="Menu">
             <Navigation>
-                <Link to="/resume">Resume</Link >
+                <Link to="/My-resume/resume">Resume</Link >
                   {/*  <Link to="/aboutme">O mnie</Link >  */}
-                <Link to="/projects">Skills</Link >
-                <Link to="/contact">Contact</Link >
+                <Link to="/My-resume/projects">Skills</Link >
+                <Link to="/My-resume/contact">Contact</Link >
             </Navigation>
         </Drawer>
         <Content>
