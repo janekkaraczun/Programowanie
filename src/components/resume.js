@@ -18,11 +18,10 @@ class Resume extends Component {
             <h2 style={{paddingTop: '2em'}}>Jan Karaczun</h2>
             <h4 style={{color: 'grey'}}>Programmer and SEO Specialist</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
-            <p>In 2018 I finished my education at Warsaw School of Life Sciences. During my studying I worked for several Companies and recently for
+            <p>In 2018 I finished my education at Warsaw School of Life Sciences. During my studying I worked for several Companies including
             a startup called <a href="https://fakturomania.pl/" rel="noopener noreferrer" target="_blank">Fakturomania</a> in customer service and
-            as a SEO&online marketing specialist. I have been learning programming in my free time for 2 years and I created this page
-            for a presentation of what I have learned. Currently I'm looking for a job as a SEO&marketing specialist or a job/practice as a
-            Junior Front-End Web Developer. I live in Milanówek near Warsaw, but I am open for job offers from all over the world and working from home.</p>
+            as a SEO & online marketing specialist. I have been learning programming in my free time for 2 years and I created this page
+            as a presentation of what I have learned. Currently I'm looking for a job as a SEO&marketing specialist or a job as a Front-End Web Developer. I live in Milanówek near Warsaw, but I am open for job offers from all over the world as well as remote job offers.</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <h5>Address</h5>
             <p>Grabowa 7, 05-822 Milanówek</p>
