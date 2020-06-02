@@ -16,7 +16,7 @@ class Resume extends Component {
             </div>
 
             <h2 style={{paddingTop: '2em'}}>Jan Karaczun</h2>
-            <h4 style={{color: 'grey'}}>Programmer and SEO Specialist</h4>
+            <h4 style={{color: 'grey'}}>Web developement and online marketing</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <p>In 2018 I finished my education at Warsaw School of Life Sciences. During my studying I worked for several Companies including
             a startup called <a href="https://fakturomania.pl/" rel="noopener noreferrer" target="_blank">Fakturomania</a> in customer service and
