@@ -92,41 +92,61 @@ class Resume extends Component {
                       Also contact with clients, work and time management (mainly using Monday and Clickup), work on accounting documentation,
                       contracts and other.</div>
                       />
+                      <Experience
+                        startYear={2019}
+                        endYear={2019}
+                        jobName="Starcom"
+                        jobDescription=<div>
+                        Working on SEO for a large international corporation, which included:<ul>
+
+                        <li>Conducting SEO audits of websites</li>
+                        <li>Working on analysis of websites with a use of following tools: Ahrefs, Screaming Frog, Senuto, Semstorm, Google Analitycs, Google Search Console, Google Ads and others</li>
+                        <li>Creation of a complex blog report consisting of diversed SEO data</li>
+                        <li>Reviewing, correction, reporting and outsourcing publication of SEO blog articles</li>
+                        </ul></div>
+                        />
+                        <Experience
+                          startYear={2020}
+                          endYear={2020}
+                          jobName="Polish Ecological Club (Polski Klub Ekologiczny)"
+                          jobDescription=<div>
+                          SEO work for Non-governmental organisation, including mostly traffic and website analysis and articles optimisation</div>
+                          />
 
 
               <hr style={{borderTop: '3px solid #e22947'}} />
               <h2>Skills</h2>
               <Skills
                 skill="Javascript"
-                progress={80}
+                progress={60}
                 />
                 <Skills
                   skill="HTML5 & CSS"
                   progress={90}
                   />
-                  <Skills
+                  {/*<Skills
                     skill="NodeJS"
                     progress={30}
-                    />
+                    />*/}
                     <Skills
                       skill="React & Redux"
                       progress={60}
                       />
                       <Skills
                         skill="Git"
-                        progress={40}
+                        progress={50}
                         />
                       <Skills
                         skill="Google Analytics"
-                        progress={90}
+                        progress={80}
                         />
                         <Skills
                           skill="Google Search Console"
-                          progress={100}
+                          progress={80}
                           />
                           <Skills
                             skill="Other SEO tools"
-                            progress={80}
+                            progress={70}
                             />
           </Cell>
         </Grid>
