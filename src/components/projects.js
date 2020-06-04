@@ -14,7 +14,7 @@ class Projects extends Component {
 
           <Card shadow={5} style={{minWidth:'450', margin:'auto', marginTop:'15px'}}>
             <CardTitle style={{color:'#737373', height: '176px', background:
-              'url(https://lh3.googleusercontent.com/proxy/UAH181yFnfjeNYtJpm1Ki6x1N3zzLL86HXt6EEW_JoOI4h12AU9zm9vjuH0J8OulSxG2brYMAmIZ-mOPIgx4vaMZFdvyvc6CjuSUfy7FFsuqrWrAlRG3d1WdmjaX__kherk) center / cover'}}></CardTitle>
+              'url(https://image.slidesharecdn.com/presentatiejeroenhtml-091125104346-phpapp01/95/html-presentation-for-beginners-2-728.jpg?cb=1259146377) center / cover'}}></CardTitle>
             <CardText>
             <div>HTML is basic programming language used for structuring and presenting content in the internet.
             </div>

@@ -21,10 +21,10 @@ class Resume extends Component {
             <p>In 2018 I finished my education at Warsaw School of Life Sciences. During my studying I worked for several Companies including
             a startup called <a href="https://fakturomania.pl/" rel="noopener noreferrer" target="_blank">Fakturomania</a> in customer service and
             as a SEO & online marketing specialist. I have been learning programming in my free time for 2 years and I created this page
-            as a presentation of what I have learned. Currently I'm looking for a job as a SEO&marketing specialist or a job as a Front-End Web Developer. I live in Milanówek near Warsaw, but I am open for job offers from all over the world as well as remote job offers.</p>
+            as a presentation of what I have learned. Currently I'm looking for a job as a Front-End Web Developer or a job as a SEO & digital marketing specialist. I am open for job offers from all over the world as well as remote job offers.</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
-            <h5>Address</h5>
-            <p>Grabowa 7, 05-822 Milanówek</p>
+            {/*<h5>Address</h5>
+            <p>Grabowa 7, 05-822 Milanówek</p>*/}
             <h5>Phone</h5>
             <p>(+48) 661-998-798</p>
             <h5>Email</h5>
