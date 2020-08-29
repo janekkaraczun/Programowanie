@@ -53,7 +53,7 @@ class Resume extends Component {
                 schoolDescription={<div>Profile of specialization: economics and organization of enterprises. The title of the diploma was
                 "Impact of Poland's accession to the European Union on rail transport in Poland"</div>}
                 />
-            <hr style={{borderTop: '3px solid #e22947'}} />
+            <hr style={{borderTop: '3px solid #833fb2'}} />
 
             <h2>Experience</h2>
               <Experience
@@ -126,7 +126,7 @@ class Resume extends Component {
               />
 
 
-              <hr style={{borderTop: '3px solid #e22947'}} />
+              <hr style={{borderTop: '3px solid #833fb2'}} />
               <h2>Skills</h2>
               <Skills
                 skill="Javascript"
